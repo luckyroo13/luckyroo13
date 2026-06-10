@@ -1,16 +1,23 @@
-## Hi there 👋
+# luckyroo13
 
-<!--
-**luckyroo13/luckyroo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Started with a 5¼" floppy and a Mario ROM. Never stopped.
 
-Here are some ideas to get you started:
+I study Computer Engineering with a specialization in blockchain and 
+cryptography. Most of what I build lives at the infrastructure layer: 
+local EVM environments, observability stacks, RPC gateways. The 
+plumbing that makes the interesting work possible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm more interested in understanding why things fail than assuming they won't.
+
+---
+
+Current project: a fully containerized local Ethereum environment with 
+production-grade observability. Anvil as the EVM node, Otterscan for 
+state inspection, Prometheus and Grafana for metrics, cAdvisor for 
+container monitoring, and Nginx as an RPC gateway.
+
+Docker, Prometheus, Grafana, Nginx, Linux. Ethereum/EVM on the protocol side.
+
+Tijuana, MX — open to remote and San Diego area.
+
+[LinkedIn](https://www.linkedin.com/in/milton-sanchez-b29b202bb/?skipRedirect=true)
