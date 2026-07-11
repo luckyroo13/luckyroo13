@@ -28,7 +28,7 @@ active failover, Prometheus + Grafana observability, and
 Nginx as RPC proxy
 
 **Writing**
-[Smart Contracts for the Agentic Era](agentic-solidity/) — a 
+[Smart Contracts for the Agentic Era](https://github.com/luckyroo13/agentic-solidity) — a 
 7-chapter tutorial on what a developer must still understand 
 deeply when an AI agent writes the Solidity: the EVM execution 
 model, invariants, adversarial review, economics, and 
