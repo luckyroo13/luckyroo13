@@ -27,6 +27,14 @@ Smart RPC Gateway — containerized Ethereum environment with
 active failover, Prometheus + Grafana observability, and 
 Nginx as RPC proxy
 
+**Writing**
+[Smart Contracts for the Agentic Era](agentic-solidity/) — a 
+7-chapter tutorial on what a developer must still understand 
+deeply when an AI agent writes the Solidity: the EVM execution 
+model, invariants, adversarial review, economics, and 
+irreversible deployment. Every concept is backed by runnable 
+Foundry exploits and a capstone grading suite.
+
 ---
 
 Solidity · Foundry · Docker · Prometheus · Grafana · Nginx · 
